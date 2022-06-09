@@ -14,4 +14,4 @@ WTForms==2.3.3
 Flask-SQLAlchemy==2.2
 Flask-Login==0.4.0
 Flask-Migrate==2.1.1
-email-validator==2.2.1
+email-validator==1.2.1
